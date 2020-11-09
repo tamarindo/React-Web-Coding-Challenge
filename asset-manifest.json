@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-Web-Coding-Challenge/static/css/main.fa31f652.chunk.css",
-    "main.js": "/React-Web-Coding-Challenge/static/js/main.cf6decc6.chunk.js",
-    "main.js.map": "/React-Web-Coding-Challenge/static/js/main.cf6decc6.chunk.js.map",
+    "main.js": "/React-Web-Coding-Challenge/static/js/main.5e185f13.chunk.js",
+    "main.js.map": "/React-Web-Coding-Challenge/static/js/main.5e185f13.chunk.js.map",
     "runtime-main.js": "/React-Web-Coding-Challenge/static/js/runtime-main.a4dc8267.js",
     "runtime-main.js.map": "/React-Web-Coding-Challenge/static/js/runtime-main.a4dc8267.js.map",
-    "static/js/2.e35555fd.chunk.js": "/React-Web-Coding-Challenge/static/js/2.e35555fd.chunk.js",
-    "static/js/2.e35555fd.chunk.js.map": "/React-Web-Coding-Challenge/static/js/2.e35555fd.chunk.js.map",
+    "static/js/2.1ae52524.chunk.js": "/React-Web-Coding-Challenge/static/js/2.1ae52524.chunk.js",
+    "static/js/2.1ae52524.chunk.js.map": "/React-Web-Coding-Challenge/static/js/2.1ae52524.chunk.js.map",
     "index.html": "/React-Web-Coding-Challenge/index.html",
     "static/css/main.fa31f652.chunk.css.map": "/React-Web-Coding-Challenge/static/css/main.fa31f652.chunk.css.map",
-    "static/js/2.e35555fd.chunk.js.LICENSE.txt": "/React-Web-Coding-Challenge/static/js/2.e35555fd.chunk.js.LICENSE.txt",
+    "static/js/2.1ae52524.chunk.js.LICENSE.txt": "/React-Web-Coding-Challenge/static/js/2.1ae52524.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/React-Web-Coding-Challenge/static/media/logo.103b5fa1.svg",
     "static/media/oso.7800b4b5.png": "/React-Web-Coding-Challenge/static/media/oso.7800b4b5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a4dc8267.js",
-    "static/js/2.e35555fd.chunk.js",
+    "static/js/2.1ae52524.chunk.js",
     "static/css/main.fa31f652.chunk.css",
-    "static/js/main.cf6decc6.chunk.js"
+    "static/js/main.5e185f13.chunk.js"
   ]
 }
